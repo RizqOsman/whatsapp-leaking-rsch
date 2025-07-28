@@ -1,7 +1,97 @@
+#!/usr/bin/env python3
+"""
+WhatsApp IP Leak Detection using tshark + Python
+Combines tshark performance with Python flexibility
+"""
+
 import subprocess
 import ipaddress
 import os
+import socket
 from datetime import datetime
+
+def get_available_interfaces():
+    """Get list of available network interfaces"""
+    interfaces = []
+    try:
+        # Method 1: Using ip command
+        result = subprocess.run(['ip', 'link', 'show'], capture_output=True, text=True)
+        if result.returncode == 0:
+            for line in result.stdout.split('\n'):
+                if ':' in line and 'lo:' not in line:
+                    interface = line.split(':')[1].strip()
+                    if interface and not interface.startswith('lo'):
+                        interfaces.append(interface)
+    except:
+        pass
+    
+    # Method 2: Using ifconfig (fallback)
+    if not interfaces:
+        try:
+            result = subprocess.run(['ifconfig'], capture_output=True, text=True)
+            if result.returncode == 0:
+                for line in result.stdout.split('\n'):
+                    if ':' in line and 'lo:' not in line:
+                        interface = line.split(':')[0].strip()
+                        if interface and not interface.startswith('lo'):
+                            interfaces.append(interface)
+        except:
+            pass
+    
+    # Method 3: Common interface names
+    if not interfaces:
+        common_interfaces = ['eth0', 'wlan0', 'en0', 'en1', 'wlan1', 'eth1']
+        for interface in common_interfaces:
+            try:
+                # Test if interface exists
+                subprocess.run(['ip', 'link', 'show', interface], 
+                             capture_output=True, check=True)
+                interfaces.append(interface)
+            except:
+                continue
+    
+    return interfaces
+
+def test_interface(interface):
+    """Test if interface is available and working"""
+    try:
+        # Test with tshark
+        result = subprocess.run([
+            'tshark', '-i', interface, '-c', '1', '-w', '/dev/null'
+        ], capture_output=True, timeout=5)
+        return result.returncode == 0
+    except:
+        return False
+
+def select_interface():
+    """Let user select interface or auto-detect"""
+    interfaces = get_available_interfaces()
+    
+    if not interfaces:
+        print("[ERROR] No network interfaces found!")
+        print("[INFO] Common interfaces: eth0, wlan0, en0, en1")
+        return None
+    
+    print(f"[INFO] Available interfaces: {', '.join(interfaces)}")
+    
+    # Test each interface
+    working_interfaces = []
+    for interface in interfaces:
+        if test_interface(interface):
+            working_interfaces.append(interface)
+            print(f"[✓] {interface} - Working")
+        else:
+            print(f"[✗] {interface} - Not working")
+    
+    if not working_interfaces:
+        print("[ERROR] No working interfaces found!")
+        return None
+    
+    # Auto-select first working interface
+    selected = working_interfaces[0]
+    print(f"[INFO] Auto-selected: {selected}")
+    
+    return selected
 
 def is_valid_public_ip(ip):
     """Check if IP is a valid public IPv4 address"""
@@ -102,7 +192,7 @@ GEOIP:
     except Exception as e:
         print(f"[ERROR] Failed to log: {e}")
 
-def start_stun_capture(interface="eth0"):
+def start_stun_capture(interface):
     """Start tshark capture for STUN packets"""
     cmd = [
         'tshark',
@@ -139,7 +229,7 @@ def start_stun_capture(interface="eth0"):
     
     return checked_ips
 
-def start_simple_capture(interface="eth0"):
+def start_simple_capture(interface):
     """Simple capture - all UDP traffic (like bash script)"""
     cmd = [
         'tshark',
@@ -184,8 +274,9 @@ def main():
     import argparse
     
     parser = argparse.ArgumentParser(description='WhatsApp IP Leak Detection using tshark')
-    parser.add_argument('-i', '--interface', default='eth0', help='Network interface')
+    parser.add_argument('-i', '--interface', help='Network interface (auto-detect if not specified)')
     parser.add_argument('-s', '--simple', action='store_true', help='Use simple UDP capture')
+    parser.add_argument('-l', '--list', action='store_true', help='List available interfaces')
     
     args = parser.parse_args()
     
@@ -194,13 +285,44 @@ def main():
         subprocess.run(['tshark', '--version'], capture_output=True, check=True)
     except (subprocess.CalledProcessError, FileNotFoundError):
         print("[ERROR] tshark not found. Install Wireshark/tshark first.")
+        print("[INFO] Ubuntu/Debian: sudo apt-get install tshark")
+        print("[INFO] CentOS/RHEL: sudo yum install wireshark")
+        print("[INFO] macOS: brew install wireshark")
+        return
+    
+    # List interfaces if requested
+    if args.list:
+        interfaces = get_available_interfaces()
+        if interfaces:
+            print(f"Available interfaces: {', '.join(interfaces)}")
+            for interface in interfaces:
+                status = "Working" if test_interface(interface) else "Not working"
+                print(f"  {interface}: {status}")
+        else:
+            print("No interfaces found!")
+        return
+    
+    # Determine interface to use
+    interface = args.interface
+    if not interface:
+        interface = select_interface()
+        if not interface:
+            print("[ERROR] Could not determine interface to use!")
+            print("[INFO] Use -l to list available interfaces")
+            print("[INFO] Use -i <interface> to specify interface manually")
+            return
+    
+    # Test interface before starting
+    if not test_interface(interface):
+        print(f"[ERROR] Interface {interface} is not working!")
+        print("[INFO] Use -l to list available interfaces")
         return
     
     try:
         if args.simple:
-            checked_ips = start_simple_capture(args.interface)
+            checked_ips = start_simple_capture(interface)
         else:
-            checked_ips = start_stun_capture(args.interface)
+            checked_ips = start_stun_capture(interface)
     except KeyboardInterrupt:
         print("\n[!] Stopping...")
         return
