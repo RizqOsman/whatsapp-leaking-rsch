@@ -1,0 +1,5790 @@
+[NON-PUBLIC] 255.255.255.255
+
+N/A
+============================================================
+[NON-PUBLIC] 224.0.0.251
+
+N/A
+============================================================
+[NON-PUBLIC] 239.255.255.250
+
+N/A
+============================================================
+[POTENTIAL_TARGET] 172.15.3.255
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[POTENTIAL_TARGET] 1.1.1.1
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '1.1.1.0 - 1.1.1.255'
+
+% Abuse contact for '1.1.1.0 - 1.1.1.255' is 'helpdesk@apnic.net'
+
+inetnum:        1.1.1.0 - 1.1.1.255
+netname:        APNIC-LABS
+descr:          APNIC and Cloudflare DNS Resolver project
+descr:          Routed globally by AS13335/Cloudflare
+descr:          Research prefix for APNIC Labs
+country:        AU
+org:            ORG-ARAD1-AP
+admin-c:        AIC3-AP
+tech-c:         AIC3-AP
+abuse-c:        AA1412-AP
+status:         ASSIGNED PORTABLE
+remarks:        ---------------
+remarks:        All Cloudflare abuse reporting can be done via
+remarks:        resolver-abuse@cloudflare.com
+remarks:        ---------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-APNICRANDNET
+mnt-irt:        IRT-APNICRANDNET-AU
+last-modified:  2023-04-26T22:57:58Z
+mnt-lower:      MAINT-APNICRANDNET
+source:         APNIC
+
+irt:            IRT-APNICRANDNET-AU
+address:        PO Box 3646
+address:        South Brisbane, QLD 4101
+address:        Australia
+e-mail:         helpdesk@apnic.net
+abuse-mailbox:  helpdesk@apnic.net
+admin-c:        AR302-AP
+tech-c:         AR302-AP
+auth:           # Filtered
+remarks:        helpdesk@apnic.net was validated on 2021-02-09
+mnt-by:         MAINT-APNICRANDNET
+last-modified:  2025-05-28T03:31:07Z
+source:         APNIC
+
+organisation:   ORG-ARAD1-AP
+org-name:       APNIC Research and Development
+org-type:       LIR
+country:        AU
+address:        6 Cordelia St
+phone:          +61-7-38583100
+fax-no:         +61-7-38583199
+e-mail:         helpdesk@apnic.net
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:15:19Z
+source:         APNIC
+
+role:           ABUSE APNICRANDNETAU
+country:        ZZ
+address:        PO Box 3646
+address:        South Brisbane, QLD 4101
+address:        Australia
+phone:          +000000000
+e-mail:         helpdesk@apnic.net
+admin-c:        AR302-AP
+tech-c:         AR302-AP
+nic-hdl:        AA1412-AP
+remarks:        Generated from irt object IRT-APNICRANDNET-AU
+remarks:        helpdesk@apnic.net was validated on 2021-02-09
+abuse-mailbox:  helpdesk@apnic.net
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-28T03:31:35Z
+source:         APNIC
+
+role:           APNICRANDNET Infrastructure Contact
+address:        6 Cordelia St
+                South Brisbane
+                QLD 4101
+country:        AU
+phone:          +61 7 3858 3100
+e-mail:         research@apnic.net
+admin-c:        AIC3-AP
+tech-c:         AIC3-AP
+nic-hdl:        AIC3-AP
+mnt-by:         MAINT-APNICRANDNET
+last-modified:  2024-07-18T04:37:37Z
+source:         APNIC
+
+% Information related to '1.1.1.0/24AS13335'
+
+route:          1.1.1.0/24
+origin:         AS13335
+descr:          APNIC Research and Development
+                6 Cordelia St
+mnt-by:         MAINT-APNICRANDNET
+last-modified:  2023-04-26T02:42:44Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-SG1)
+
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[POTENTIAL_TARGET] 172.15.1.159
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[NON-PUBLIC] 224.0.0.7
+
+N/A
+============================================================
+[NON-PUBLIC] 239.254.127.63
+
+N/A
+============================================================
+[NON-PUBLIC] 224.0.0.252
+
+N/A
+============================================================
+[POTENTIAL_TARGET] 172.15.1.1
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[POTENTIAL_TARGET] 172.15.1.127
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[POTENTIAL_TARGET] 172.15.1.183
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[POTENTIAL_TARGET] 172.15.3.162
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+AT&T Enterprises, LLC (AEL-360)
+
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[NON-PUBLIC] 224.0.0.251
+
+N/A
+============================================================
+[NON-PUBLIC] 239.254.127.63
+
+N/A
+============================================================
+[NON-PUBLIC] 255.255.255.255
+
+N/A
+============================================================
+[NON-PUBLIC] 239.255.255.250
+
+N/A
+============================================================
+[POTENTIAL_TARGET] 172.15.3.255
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+AT&T Enterprises, LLC (AEL-360)
+
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[POTENTIAL_TARGET] 1.1.1.1
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '1.1.1.0 - 1.1.1.255'
+
+% Abuse contact for '1.1.1.0 - 1.1.1.255' is 'helpdesk@apnic.net'
+
+inetnum:        1.1.1.0 - 1.1.1.255
+netname:        APNIC-LABS
+descr:          APNIC and Cloudflare DNS Resolver project
+descr:          Routed globally by AS13335/Cloudflare
+descr:          Research prefix for APNIC Labs
+country:        AU
+org:            ORG-ARAD1-AP
+admin-c:        AIC3-AP
+tech-c:         AIC3-AP
+abuse-c:        AA1412-AP
+status:         ASSIGNED PORTABLE
+remarks:        ---------------
+remarks:        All Cloudflare abuse reporting can be done via
+remarks:        resolver-abuse@cloudflare.com
+remarks:        ---------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-APNICRANDNET
+mnt-irt:        IRT-APNICRANDNET-AU
+last-modified:  2023-04-26T22:57:58Z
+mnt-lower:      MAINT-APNICRANDNET
+source:         APNIC
+
+irt:            IRT-APNICRANDNET-AU
+address:        PO Box 3646
+address:        South Brisbane, QLD 4101
+address:        Australia
+e-mail:         helpdesk@apnic.net
+abuse-mailbox:  helpdesk@apnic.net
+admin-c:        AR302-AP
+tech-c:         AR302-AP
+auth:           # Filtered
+remarks:        helpdesk@apnic.net was validated on 2021-02-09
+mnt-by:         MAINT-APNICRANDNET
+last-modified:  2025-05-28T03:31:07Z
+source:         APNIC
+
+organisation:   ORG-ARAD1-AP
+org-name:       APNIC Research and Development
+org-type:       LIR
+country:        AU
+address:        6 Cordelia St
+phone:          +61-7-38583100
+fax-no:         +61-7-38583199
+e-mail:         helpdesk@apnic.net
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:15:19Z
+source:         APNIC
+
+role:           ABUSE APNICRANDNETAU
+country:        ZZ
+address:        PO Box 3646
+address:        South Brisbane, QLD 4101
+address:        Australia
+phone:          +000000000
+e-mail:         helpdesk@apnic.net
+admin-c:        AR302-AP
+tech-c:         AR302-AP
+nic-hdl:        AA1412-AP
+remarks:        Generated from irt object IRT-APNICRANDNET-AU
+remarks:        helpdesk@apnic.net was validated on 2021-02-09
+abuse-mailbox:  helpdesk@apnic.net
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-28T03:31:35Z
+source:         APNIC
+
+role:           APNICRANDNET Infrastructure Contact
+address:        6 Cordelia St
+                South Brisbane
+                QLD 4101
+country:        AU
+phone:          +61 7 3858 3100
+e-mail:         research@apnic.net
+admin-c:        AIC3-AP
+tech-c:         AIC3-AP
+nic-hdl:        AIC3-AP
+mnt-by:         MAINT-APNICRANDNET
+last-modified:  2024-07-18T04:37:37Z
+source:         APNIC
+
+% Information related to '1.1.1.0/24AS13335'
+
+route:          1.1.1.0/24
+origin:         AS13335
+descr:          APNIC Research and Development
+                6 Cordelia St
+mnt-by:         MAINT-APNICRANDNET
+last-modified:  2023-04-26T02:42:44Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-SG1)
+
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[POTENTIAL_TARGET] 172.15.1.159
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[NON-PUBLIC] 239.255.102.18
+
+N/A
+============================================================
+[NON-PUBLIC] 224.0.0.7
+
+N/A
+============================================================
+[POTENTIAL_TARGET] 172.15.2.88
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[POTENTIAL_TARGET] 172.15.1.227
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[POTENTIAL_TARGET] 172.15.1.1
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+AT&T Enterprises, LLC (AEL-360)
+
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[NON-PUBLIC] 224.0.0.252
+
+N/A
+============================================================
+[POTENTIAL_TARGET] 172.15.1.183
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[POTENTIAL_TARGET] 172.15.3.147
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[NON-PUBLIC] 224.0.0.118
+
+N/A
+============================================================
+[POTENTIAL_TARGET] 172.15.3.28
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[POTENTIAL_TARGET] 172.15.2.173
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 02:58:24] [NON_PUBLIC] 255.255.255.255
+[WHOIS ERROR]
+N/A
+============================================================
+[2025-07-23 02:58:24] [NON_PUBLIC] 239.255.255.250
+[WHOIS ERROR]
+N/A
+============================================================
+[2025-07-23 02:58:26] [NON_PUBLIC] 224.0.0.251
+[WHOIS ERROR]
+N/A
+============================================================
+[2025-07-23 02:58:27] [NON_PUBLIC] 224.0.0.252
+[WHOIS ERROR]
+N/A
+============================================================
+[2025-07-23 02:58:27] [NON_PUBLIC] 224.0.0.7
+[WHOIS ERROR]
+N/A
+============================================================
+[2025-07-23 02:58:33] [POTENTIAL_TARGET] 172.15.3.255
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 02:58:34] [POTENTIAL_TARGET] 1.1.1.1
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '1.1.1.0 - 1.1.1.255'
+
+% Abuse contact for '1.1.1.0 - 1.1.1.255' is 'helpdesk@apnic.net'
+
+inetnum:        1.1.1.0 - 1.1.1.255
+netname:        APNIC-LABS
+descr:          APNIC and Cloudflare DNS Resolver project
+descr:          Routed globally by AS13335/Cloudflare
+descr:          Research prefix for APNIC Labs
+country:        AU
+org:            ORG-ARAD1-AP
+admin-c:        AIC3-AP
+tech-c:         AIC3-AP
+abuse-c:        AA1412-AP
+status:         ASSIGNED PORTABLE
+remarks:        ---------------
+remarks:        All Cloudflare abuse reporting can be done via
+remarks:        resolver-abuse@cloudflare.com
+remarks:        ---------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-APNICRANDNET
+mnt-irt:        IRT-APNICRANDNET-AU
+last-modified:  2023-04-26T22:57:58Z
+mnt-lower:      MAINT-APNICRANDNET
+source:         APNIC
+
+irt:            IRT-APNICRANDNET-AU
+address:        PO Box 3646
+address:        South Brisbane, QLD 4101
+address:        Australia
+e-mail:         helpdesk@apnic.net
+abuse-mailbox:  helpdesk@apnic.net
+admin-c:        AR302-AP
+tech-c:         AR302-AP
+auth:           # Filtered
+remarks:        helpdesk@apnic.net was validated on 2021-02-09
+mnt-by:         MAINT-APNICRANDNET
+last-modified:  2025-05-28T03:31:07Z
+source:         APNIC
+
+organisation:   ORG-ARAD1-AP
+org-name:       APNIC Research and Development
+org-type:       LIR
+country:        AU
+address:        6 Cordelia St
+phone:          +61-7-38583100
+fax-no:         +61-7-38583199
+e-mail:         helpdesk@apnic.net
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:15:19Z
+source:         APNIC
+
+role:           ABUSE APNICRANDNETAU
+country:        ZZ
+address:        PO Box 3646
+address:        South Brisbane, QLD 4101
+address:        Australia
+phone:          +000000000
+e-mail:         helpdesk@apnic.net
+admin-c:        AR302-AP
+tech-c:         AR302-AP
+nic-hdl:        AA1412-AP
+remarks:        Generated from irt object IRT-APNICRANDNET-AU
+remarks:        helpdesk@apnic.net was validated on 2021-02-09
+abuse-mailbox:  helpdesk@apnic.net
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-28T03:31:35Z
+source:         APNIC
+
+role:           APNICRANDNET Infrastructure Contact
+address:        6 Cordelia St
+                South Brisbane
+                QLD 4101
+country:        AU
+phone:          +61 7 3858 3100
+e-mail:         research@apnic.net
+admin-c:        AIC3-AP
+tech-c:         AIC3-AP
+nic-hdl:        AIC3-AP
+mnt-by:         MAINT-APNICRANDNET
+last-modified:  2024-07-18T04:37:37Z
+source:         APNIC
+
+% Information related to '1.1.1.0/24AS13335'
+
+route:          1.1.1.0/24
+origin:         AS13335
+descr:          APNIC Research and Development
+                6 Cordelia St
+mnt-by:         MAINT-APNICRANDNET
+last-modified:  2023-04-26T02:42:44Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-SG1)
+
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 02:58:34] [POTENTIAL_TARGET] 172.15.1.159
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 02:58:36] [POTENTIAL_TARGET] 172.15.1.1
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 02:58:38] [NON_PUBLIC] 239.254.127.63
+[WHOIS ERROR]
+N/A
+============================================================
+[2025-07-23 02:59:10] [NON_PUBLIC] 192.168.12.255
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       192.168.0.0 - 192.168.255.255
+CIDR:           192.168.0.0/16
+NetName:        PRIVATE-ADDRESS-CBLK-RFC1918-IANA-RESERVED
+NetHandle:      NET-192-168-0-0-1
+Parent:         NET192 (NET-192-0-0-0-0)
+NetType:        IANA Special Use
+OriginAS:       
+Organization:   Internet Assigned Numbers Authority (IANA)
+RegDate:        1994-03-15
+Updated:        2024-05-24
+Comment:        These addresses are in use by many millions of independently operated networks, which might be as small as a single computer connected to a home gateway, and are automatically configured in hundreds of millions of devices.  They are only intended for use within a private context  and traffic that needs to cross the Internet will need to use a different, unique address.
+Comment:        
+Comment:        These addresses can be used by anyone without any need to coordinate with IANA or an Internet registry.  The traffic from these addresses does not come from ICANN or IANA.  We are not the source of activity you may see on logs or in e-mail records.  Please refer to http://www.iana.org/abuse/answers
+Comment:        
+Comment:        These addresses were assigned by the IETF, the organization that develops Internet protocols, in the Best Current Practice document, RFC 1918 which can be found at:
+Comment:        http://datatracker.ietf.org/doc/rfc1918
+Ref:            https://rdap.arin.net/registry/ip/192.168.0.0
+
+
+
+OrgName:        Internet Assigned Numbers Authority
+OrgId:          IANA
+Address:        12025 Waterfront Drive
+Address:        Suite 300
+City:           Los Angeles
+StateProv:      CA
+PostalCode:     90292
+Country:        US
+RegDate:        
+Updated:        2024-05-24
+Ref:            https://rdap.arin.net/registry/entity/IANA
+
+
+OrgAbuseHandle: IANA-IP-ARIN
+OrgAbuseName:   ICANN
+OrgAbusePhone:  +1-310-301-5820 
+OrgAbuseEmail:  abuse@iana.org
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/IANA-IP-ARIN
+
+OrgTechHandle: IANA-IP-ARIN
+OrgTechName:   ICANN
+OrgTechPhone:  +1-310-301-5820 
+OrgTechEmail:  abuse@iana.org
+OrgTechRef:    https://rdap.arin.net/registry/entity/IANA-IP-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+N/A
+============================================================
+[2025-07-23 02:59:19] [POTENTIAL_TARGET] 172.15.1.183
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 02:59:36] [POTENTIAL_TARGET] 172.15.3.147
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 02:59:45] [POTENTIAL_TARGET] 172.15.3.92
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 03:01:35] [POTENTIAL_TARGET] 172.15.2.199
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 03:01:37] [POTENTIAL_TARGET] 172.15.3.200
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 03:02:57] [NON_PUBLIC] 224.0.0.118
+[WHOIS ERROR]
+N/A
+============================================================
+[2025-07-23 03:04:10] [POTENTIAL_TARGET] 172.15.2.124
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 03:08:58] [POTENTIAL_TARGET] 172.15.3.59
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 03:11:18] [POTENTIAL_TARGET] 172.15.1.127
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 05:08:00] [POTENTIAL_TARGET] 172.15.2.186
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 05:08:04] [POTENTIAL_TARGET] 172.15.1.165
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 05:09:53] [POTENTIAL_TARGET] 172.15.3.82
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 05:10:02] [POTENTIAL_TARGET] 172.15.3.43
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 05:10:46] [POTENTIAL_TARGET] 172.15.3.178
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 05:13:15] [POTENTIAL_TARGET] 172.15.3.162
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 05:17:27] [NON_PUBLIC] 169.254.255.255
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       169.254.0.0 - 169.254.255.255
+CIDR:           169.254.0.0/16
+NetName:        LINKLOCAL-RFC3927-IANA-RESERVED
+NetHandle:      NET-169-254-0-0-1
+Parent:         NET169 (NET-169-0-0-0-0)
+NetType:        IANA Special Use
+OriginAS:       
+Organization:   Internet Assigned Numbers Authority (IANA)
+RegDate:        1998-01-27
+Updated:        2024-05-24
+Comment:        Computers use addresses starting with "169.254." when they do not have a manually configured address or when they are not told which address to use by a service on the network.  They are commonly called the "link local" addresses.
+Comment:        
+Comment:        Routers are not allowed to forward packets sent from an IPv4 "link local" address, so they are always used by a directly connected device.
+Comment:        
+Comment:        These addresses were assigned by the IETF, the organization that develops Internet protocols, in the Standards Track document, RFC3927, which can be found at:
+Comment:        http://datatracker.ietf.org/doc/rfc3927
+Ref:            https://rdap.arin.net/registry/ip/169.254.0.0
+
+
+
+OrgName:        Internet Assigned Numbers Authority
+OrgId:          IANA
+Address:        12025 Waterfront Drive
+Address:        Suite 300
+City:           Los Angeles
+StateProv:      CA
+PostalCode:     90292
+Country:        US
+RegDate:        
+Updated:        2024-05-24
+Ref:            https://rdap.arin.net/registry/entity/IANA
+
+
+OrgAbuseHandle: IANA-IP-ARIN
+OrgAbuseName:   ICANN
+OrgAbusePhone:  +1-310-301-5820 
+OrgAbuseEmail:  abuse@iana.org
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/IANA-IP-ARIN
+
+OrgTechHandle: IANA-IP-ARIN
+OrgTechName:   ICANN
+OrgTechPhone:  +1-310-301-5820 
+OrgTechEmail:  abuse@iana.org
+OrgTechRef:    https://rdap.arin.net/registry/entity/IANA-IP-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+N/A
+============================================================
+[2025-07-23 05:18:48] [NON_PUBLIC] 239.255.102.18
+[WHOIS ERROR]
+N/A
+============================================================
+[2025-07-23 05:21:09] [POTENTIAL_TARGET] 172.15.3.27
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 05:21:28] [POTENTIAL_TARGET] 172.15.2.119
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 05:21:50] [POTENTIAL_TARGET] 172.15.2.175
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 05:26:33] [POTENTIAL_TARGET] 172.15.3.241
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 05:34:31] [POTENTIAL_TARGET] 172.15.3.210
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 05:37:22] [POTENTIAL_TARGET] 172.15.3.220
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 05:41:35] [POTENTIAL_TARGET] 172.15.2.1
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 05:46:10] [POTENTIAL_TARGET] 172.15.3.234
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 05:46:36] [POTENTIAL_TARGET] 172.15.3.235
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+AT&T Enterprises, LLC (AEL-360)
+
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 05:48:26] [POTENTIAL_TARGET] 172.15.3.28
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 05:50:21] [POTENTIAL_TARGET] 172.15.3.223
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 05:53:10] [POTENTIAL_TARGET] 172.15.3.243
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 06:00:05] [POTENTIAL_TARGET] 172.15.1.167
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+AT&T Enterprises, LLC (AEL-360)
+
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 06:01:40] [POTENTIAL_TARGET] 172.15.3.222
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 06:46:40] [POTENTIAL_TARGET] 172.15.1.164
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 06:47:01] [POTENTIAL_TARGET] 172.15.1.178
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 06:47:05] [POTENTIAL_TARGET] 172.15.1.204
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.0.0.0 - 172.15.255.255
+CIDR:           172.0.0.0/12
+NetName:        SIS-80-8-2012
+NetHandle:      NET-172-0-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7132
+Organization:   AT&T Enterprises, LLC (AEL-360)
+RegDate:        2012-08-20
+Updated:        2024-12-05
+Ref:            https://rdap.arin.net/registry/ip/172.0.0.0
+
+
+
+OrgName:        AT&T Enterprises, LLC
+OrgId:          AEL-360
+Address:        208 S. Akard St.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2024-11-22
+Updated:        2025-07-21
+Ref:            https://rdap.arin.net/registry/entity/AEL-360
+
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-876-2382 
+OrgTechEmail:  rm-ipspecialist@att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ICC-ARIN
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE7-ARIN
+
+OrgTechHandle: ZS44-ARIN
+OrgTechName:   IPAdmin-ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin@semail.att.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZS44-ARIN
+
+OrgRoutingHandle: ROUTI59-ARIN
+OrgRoutingName:   Routing POC
+OrgRoutingPhone:  +1-999-999-9999 
+OrgRoutingEmail:  routing@cbbtier3.att.net
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ROUTI59-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 07:14:53] [POTENTIAL_TARGET] 172.15.2.5
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 07:42:53] [NON_PUBLIC] 192.168.1.1
+[WHOIS ERROR]
+N/A
+============================================================
+[2025-07-23 07:42:58] [POTENTIAL_TARGET] 17.253.84.253
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 07:43:03] [POTENTIAL_TARGET] 74.125.200.91
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 07:43:08] [POTENTIAL_TARGET] 17.253.60.125
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 07:43:13] [POTENTIAL_TARGET] 57.144.193.32
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 07:43:18] [POTENTIAL_TARGET] 151.101.3.6
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 07:43:23] [POTENTIAL_TARGET] 151.101.67.6
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 07:43:28] [NON_PUBLIC] 192.168.1.255
+[WHOIS ERROR]
+N/A
+============================================================
+[2025-07-23 07:44:33] [POTENTIAL_TARGET] 34.36.137.203
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 07:45:06] [POTENTIAL_TARGET] 172.253.118.102
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 07:45:11] [POTENTIAL_TARGET] 172.217.194.106
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 07:45:35] [POTENTIAL_TARGET] 104.18.41.158
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 07:45:44] [POTENTIAL_TARGET] 142.251.10.147
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 07:45:49] [POTENTIAL_TARGET] 64.233.170.99
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 07:47:58] [POTENTIAL_TARGET] 74.125.130.91
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 07:53:02] [POTENTIAL_TARGET] 64.233.170.93
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       64.233.160.0 - 64.233.191.255
+CIDR:           64.233.160.0/19
+NetName:        GOOGLE
+NetHandle:      NET-64-233-160-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Google LLC (GOGL)
+RegDate:        2003-08-18
+Updated:        2012-02-24
+Ref:            https://rdap.arin.net/registry/ip/64.233.160.0
+
+
+
+OrgName:        Google LLC
+OrgId:          GOGL
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+RegDate:        2000-03-30
+Updated:        2019-10-31
+Comment:        Please note that the recommended way to file abuse complaints are located in the following links. 
+Comment:        
+Comment:        To report abuse and illegal activity: https://www.google.com/contact/
+Comment:        
+Comment:        For legal requests: http://support.google.com/legal 
+Comment:        
+Comment:        Regards, 
+Comment:        The Google Team
+Ref:            https://rdap.arin.net/registry/entity/GOGL
+
+
+OrgTechHandle: ZG39-ARIN
+OrgTechName:   Google LLC
+OrgTechPhone:  +1-650-253-0000 
+OrgTechEmail:  arin-contact@google.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZG39-ARIN
+
+OrgAbuseHandle: ABUSE5250-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-650-253-0000 
+OrgAbuseEmail:  network-abuse@google.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE5250-ARIN
+
+RTechHandle: ZG39-ARIN
+RTechName:   Google LLC
+RTechPhone:  +1-650-253-0000 
+RTechEmail:  arin-contact@google.com
+RTechRef:    https://rdap.arin.net/registry/entity/ZG39-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 07:53:03] [NON_PUBLIC] 192.168.1.6
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       192.168.0.0 - 192.168.255.255
+CIDR:           192.168.0.0/16
+NetName:        PRIVATE-ADDRESS-CBLK-RFC1918-IANA-RESERVED
+NetHandle:      NET-192-168-0-0-1
+Parent:         NET192 (NET-192-0-0-0-0)
+NetType:        IANA Special Use
+OriginAS:       
+Organization:   Internet Assigned Numbers Authority (IANA)
+RegDate:        1994-03-15
+Updated:        2024-05-24
+Comment:        These addresses are in use by many millions of independently operated networks, which might be as small as a single computer connected to a home gateway, and are automatically configured in hundreds of millions of devices.  They are only intended for use within a private context  and traffic that needs to cross the Internet will need to use a different, unique address.
+Comment:        
+Comment:        These addresses can be used by anyone without any need to coordinate with IANA or an Internet registry.  The traffic from these addresses does not come from ICANN or IANA.  We are not the source of activity you may see on logs or in e-mail records.  Please refer to http://www.iana.org/abuse/answers
+Comment:        
+Comment:        These addresses were assigned by the IETF, the organization that develops Internet protocols, in the Best Current Practice document, RFC 1918 which can be found at:
+Comment:        http://datatracker.ietf.org/doc/rfc1918
+Ref:            https://rdap.arin.net/registry/ip/192.168.0.0
+
+
+
+OrgName:        Internet Assigned Numbers Authority
+OrgId:          IANA
+Address:        12025 Waterfront Drive
+Address:        Suite 300
+City:           Los Angeles
+StateProv:      CA
+PostalCode:     90292
+Country:        US
+RegDate:        
+Updated:        2024-05-24
+Ref:            https://rdap.arin.net/registry/entity/IANA
+
+
+OrgAbuseHandle: IANA-IP-ARIN
+OrgAbuseName:   ICANN
+OrgAbusePhone:  +1-310-301-5820 
+OrgAbuseEmail:  abuse@iana.org
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/IANA-IP-ARIN
+
+OrgTechHandle: IANA-IP-ARIN
+OrgTechName:   ICANN
+OrgTechPhone:  +1-310-301-5820 
+OrgTechEmail:  abuse@iana.org
+OrgTechRef:    https://rdap.arin.net/registry/entity/IANA-IP-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+N/A
+============================================================
+[2025-07-23 07:55:08] [POTENTIAL_TARGET] 172.217.70.94
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.217.0.0 - 172.217.255.255
+CIDR:           172.217.0.0/16
+NetName:        GOOGLE
+NetHandle:      NET-172-217-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS15169
+Organization:   Google LLC (GOGL)
+RegDate:        2012-04-16
+Updated:        2012-04-16
+Ref:            https://rdap.arin.net/registry/ip/172.217.0.0
+
+
+
+OrgName:        Google LLC
+OrgId:          GOGL
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+RegDate:        2000-03-30
+Updated:        2019-10-31
+Comment:        Please note that the recommended way to file abuse complaints are located in the following links. 
+Comment:        
+Comment:        To report abuse and illegal activity: https://www.google.com/contact/
+Comment:        
+Comment:        For legal requests: http://support.google.com/legal 
+Comment:        
+Comment:        Regards, 
+Comment:        The Google Team
+Ref:            https://rdap.arin.net/registry/entity/GOGL
+
+
+OrgTechHandle: ZG39-ARIN
+OrgTechName:   Google LLC
+OrgTechPhone:  +1-650-253-0000 
+OrgTechEmail:  arin-contact@google.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZG39-ARIN
+
+OrgAbuseHandle: ABUSE5250-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-650-253-0000 
+OrgAbuseEmail:  network-abuse@google.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE5250-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 07:55:21] [WHATSAPP_RELAY] 57.144.101.32
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       57.0.0.0 - 57.255.255.255
+CIDR:           57.0.0.0/8
+NetName:        RIPE-ERX-57
+NetHandle:      NET-57-0-0-0-1
+Parent:          ()
+NetType:        Early Registrations, Maintained by RIPE NCC
+OriginAS:       
+Organization:   RIPE Network Coordination Centre (RIPE)
+RegDate:        1993-06-21
+Updated:        2025-02-10
+Comment:        These addresses have been further assigned to users in the RIPE NCC region. Please note that the organization and point of contact details listed below are those of the RIPE NCC not the current address holder. ** You can find user contact information for the current address holder in the RIPE database at http://www.ripe.net/whois.
+Ref:            https://rdap.arin.net/registry/ip/57.0.0.0
+
+ResourceLink:  https://apps.db.ripe.net/db-web-ui/query
+ResourceLink:  whois.ripe.net
+
+
+OrgName:        RIPE Network Coordination Centre
+OrgId:          RIPE
+Address:        P.O. Box 10096
+City:           Amsterdam
+StateProv:      
+PostalCode:     1001EB
+Country:        NL
+RegDate:        
+Updated:        2013-07-29
+Ref:            https://rdap.arin.net/registry/entity/RIPE
+
+ReferralServer:  whois.ripe.net
+ResourceLink:  https://apps.db.ripe.net/db-web-ui/query
+
+OrgAbuseHandle: ABUSE3850-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +31205354444 
+OrgAbuseEmail:  abuse@ripe.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE3850-ARIN
+
+OrgTechHandle: RNO29-ARIN
+OrgTechName:   RIPE NCC Operations
+OrgTechPhone:  +31 20 535 4444 
+OrgTechEmail:  hostmaster@ripe.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/RNO29-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+
+Found a referral to whois.ripe.net.
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '57.141.0.0 - 57.149.255.255'
+
+% Abuse contact for '57.141.0.0 - 57.149.255.255' is 'domain@fb.com'
+
+inetnum:        57.141.0.0 - 57.149.255.255
+netname:        FB-BLOCK
+country:        IE
+admin-c:        NE1880-RIPE
+tech-c:         NE1880-RIPE
+org:            ORG-FIL7-RIPE
+status:         LEGACY
+mnt-by:         meta-mnt
+mnt-by:         RIPE-NCC-LEGACY-MNT
+created:        2022-08-23T13:58:05Z
+last-modified:  2023-06-23T09:09:37Z
+source:         RIPE
+
+organisation:   ORG-FIL7-RIPE
+org-name:       Meta Platforms Ireland Limited
+country:        IE
+org-type:       LIR
+address:        Merrion Road Dublin 4
+address:        D04 X2K5
+address:        Dublin
+address:        IRELAND
+phone:          +353 1443 4342
+phone:          +0016505434800
+fax-no:         +0016505435325
+admin-c:        PH4972-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        meta-mnt
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         meta-mnt
+abuse-c:        RD4299-RIPE
+created:        2011-04-07T13:16:29Z
+last-modified:  2024-04-29T09:07:11Z
+source:         RIPE # Filtered
+
+role:           Network Engineering
+address:        4 GRAND CANAL SQUARE, GRAND CANAL HARBOUR, DUBLIN, IRELAND
+nic-hdl:        NE1880-RIPE
+mnt-by:         fb-neteng
+mnt-by:         facebook-neteng
+created:        2022-05-19T14:17:28Z
+last-modified:  2022-05-19T14:17:28Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.117 (ABERDEEN)
+
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 07:55:22] [WHATSAPP_RELAY] 31.13.95.60
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '31.13.64.0 - 31.13.127.255'
+
+% Abuse contact for '31.13.64.0 - 31.13.127.255' is 'domain@fb.com'
+
+inetnum:        31.13.64.0 - 31.13.127.255
+netname:        IE-FACEBOOK-20110418
+country:        IE
+org:            ORG-FIL7-RIPE
+admin-c:        NE1880-RIPE
+tech-c:         NE1880-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         meta-mnt
+mnt-routes:     fb-neteng
+created:        2011-04-18T12:00:34Z
+last-modified:  2022-10-29T00:51:39Z
+source:         RIPE # Filtered
+
+organisation:   ORG-FIL7-RIPE
+org-name:       Meta Platforms Ireland Limited
+country:        IE
+org-type:       LIR
+address:        Merrion Road Dublin 4
+address:        D04 X2K5
+address:        Dublin
+address:        IRELAND
+phone:          +353 1443 4342
+phone:          +0016505434800
+fax-no:         +0016505435325
+admin-c:        PH4972-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        meta-mnt
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         meta-mnt
+abuse-c:        RD4299-RIPE
+created:        2011-04-07T13:16:29Z
+last-modified:  2024-04-29T09:07:11Z
+source:         RIPE # Filtered
+
+role:           Network Engineering
+address:        4 GRAND CANAL SQUARE, GRAND CANAL HARBOUR, DUBLIN, IRELAND
+nic-hdl:        NE1880-RIPE
+mnt-by:         fb-neteng
+mnt-by:         facebook-neteng
+created:        2022-05-19T14:17:28Z
+last-modified:  2022-05-19T14:17:28Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.117 (SHETLAND)
+
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 07:58:08] [POTENTIAL_TARGET] 74.125.130.136
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       74.125.0.0 - 74.125.255.255
+CIDR:           74.125.0.0/16
+NetName:        GOOGLE
+NetHandle:      NET-74-125-0-0-1
+Parent:         NET74 (NET-74-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Google LLC (GOGL)
+RegDate:        2007-03-13
+Updated:        2012-02-24
+Ref:            https://rdap.arin.net/registry/ip/74.125.0.0
+
+
+
+OrgName:        Google LLC
+OrgId:          GOGL
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+RegDate:        2000-03-30
+Updated:        2019-10-31
+Comment:        Please note that the recommended way to file abuse complaints are located in the following links. 
+Comment:        
+Comment:        To report abuse and illegal activity: https://www.google.com/contact/
+Comment:        
+Comment:        For legal requests: http://support.google.com/legal 
+Comment:        
+Comment:        Regards, 
+Comment:        The Google Team
+Ref:            https://rdap.arin.net/registry/entity/GOGL
+
+
+OrgTechHandle: ZG39-ARIN
+OrgTechName:   Google LLC
+OrgTechPhone:  +1-650-253-0000 
+OrgTechEmail:  arin-contact@google.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZG39-ARIN
+
+OrgAbuseHandle: ABUSE5250-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-650-253-0000 
+OrgAbuseEmail:  network-abuse@google.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE5250-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 08:03:38] [POTENTIAL_TARGET] 74.125.200.93
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       74.125.0.0 - 74.125.255.255
+CIDR:           74.125.0.0/16
+NetName:        GOOGLE
+NetHandle:      NET-74-125-0-0-1
+Parent:         NET74 (NET-74-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Google LLC (GOGL)
+RegDate:        2007-03-13
+Updated:        2012-02-24
+Ref:            https://rdap.arin.net/registry/ip/74.125.0.0
+
+
+
+OrgName:        Google LLC
+OrgId:          GOGL
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+RegDate:        2000-03-30
+Updated:        2019-10-31
+Comment:        Please note that the recommended way to file abuse complaints are located in the following links. 
+Comment:        
+Comment:        To report abuse and illegal activity: https://www.google.com/contact/
+Comment:        
+Comment:        For legal requests: http://support.google.com/legal 
+Comment:        
+Comment:        Regards, 
+Comment:        The Google Team
+Ref:            https://rdap.arin.net/registry/entity/GOGL
+
+
+OrgAbuseHandle: ABUSE5250-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-650-253-0000 
+OrgAbuseEmail:  network-abuse@google.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE5250-ARIN
+
+OrgTechHandle: ZG39-ARIN
+OrgTechName:   Google LLC
+OrgTechPhone:  +1-650-253-0000 
+OrgTechEmail:  arin-contact@google.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZG39-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 08:06:54] [POTENTIAL_TARGET] 74.125.130.95
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       74.125.0.0 - 74.125.255.255
+CIDR:           74.125.0.0/16
+NetName:        GOOGLE
+NetHandle:      NET-74-125-0-0-1
+Parent:         NET74 (NET-74-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Google LLC (GOGL)
+RegDate:        2007-03-13
+Updated:        2012-02-24
+Ref:            https://rdap.arin.net/registry/ip/74.125.0.0
+
+
+
+OrgName:        Google LLC
+OrgId:          GOGL
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+RegDate:        2000-03-30
+Updated:        2019-10-31
+Comment:        Please note that the recommended way to file abuse complaints are located in the following links. 
+Comment:        
+Comment:        To report abuse and illegal activity: https://www.google.com/contact/
+Comment:        
+Comment:        For legal requests: http://support.google.com/legal 
+Comment:        
+Comment:        Regards, 
+Comment:        The Google Team
+Ref:            https://rdap.arin.net/registry/entity/GOGL
+
+
+OrgTechHandle: ZG39-ARIN
+OrgTechName:   Google LLC
+OrgTechPhone:  +1-650-253-0000 
+OrgTechEmail:  arin-contact@google.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZG39-ARIN
+
+OrgAbuseHandle: ABUSE5250-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-650-253-0000 
+OrgAbuseEmail:  network-abuse@google.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE5250-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 08:09:09] [POTENTIAL_TARGET] 142.250.4.93
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       142.250.0.0 - 142.251.255.255
+CIDR:           142.250.0.0/15
+NetName:        GOOGLE
+NetHandle:      NET-142-250-0-0-1
+Parent:         NET142 (NET-142-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS15169
+Organization:   Google LLC (GOGL)
+RegDate:        2012-05-24
+Updated:        2012-05-24
+Ref:            https://rdap.arin.net/registry/ip/142.250.0.0
+
+
+
+OrgName:        Google LLC
+OrgId:          GOGL
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+RegDate:        2000-03-30
+Updated:        2019-10-31
+Comment:        Please note that the recommended way to file abuse complaints are located in the following links. 
+Comment:        
+Comment:        To report abuse and illegal activity: https://www.google.com/contact/
+Comment:        
+Comment:        For legal requests: http://support.google.com/legal 
+Comment:        
+Comment:        Regards, 
+Comment:        The Google Team
+Ref:            https://rdap.arin.net/registry/entity/GOGL
+
+
+OrgAbuseHandle: ABUSE5250-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-650-253-0000 
+OrgAbuseEmail:  network-abuse@google.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE5250-ARIN
+
+OrgTechHandle: ZG39-ARIN
+OrgTechName:   Google LLC
+OrgTechPhone:  +1-650-253-0000 
+OrgTechEmail:  arin-contact@google.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZG39-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 08:09:26] [POTENTIAL_TARGET] 17.253.84.251
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       17.0.0.0 - 17.255.255.255
+CIDR:           17.0.0.0/8
+NetName:        APPLE-WWNET
+NetHandle:      NET-17-0-0-0-1
+Parent:          ()
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Apple Inc. (APPLEC-1-Z)
+RegDate:        1990-04-16
+Updated:        2025-04-02
+Comment:        Geofeed https://ip-geolocation.apple.com
+Ref:            https://rdap.arin.net/registry/ip/17.0.0.0
+
+
+
+OrgName:        Apple Inc.
+OrgId:          APPLEC-1-Z
+Address:        One Apple Park Way
+City:           Cupertino
+StateProv:      CA
+PostalCode:     95014
+Country:        US
+RegDate:        2009-12-14
+Updated:        2025-04-22
+Ref:            https://rdap.arin.net/registry/entity/APPLEC-1-Z
+
+
+OrgAbuseHandle: APPLE11-ARIN
+OrgAbuseName:   Apple Abuse
+OrgAbusePhone:  +1-408-974-7777 
+OrgAbuseEmail:  abuse@apple.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/APPLE11-ARIN
+
+OrgTechHandle: IPHOS7-ARIN
+OrgTechName:   IP Hostmaster
+OrgTechPhone:  +1-408-996-1010 
+OrgTechEmail:  ip-hostmaster@group.apple.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/IPHOS7-ARIN
+
+RTechHandle: APPLE141-ARIN
+RTechName:   Apple Inc
+RTechPhone:  +1-408-996-1010 
+RTechEmail:  ip-hostmaster@group.apple.com
+RTechRef:    https://rdap.arin.net/registry/entity/APPLE141-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 10:33:47] [POTENTIAL_TARGET] 74.125.68.91
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       74.125.0.0 - 74.125.255.255
+CIDR:           74.125.0.0/16
+NetName:        GOOGLE
+NetHandle:      NET-74-125-0-0-1
+Parent:         NET74 (NET-74-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Google LLC (GOGL)
+RegDate:        2007-03-13
+Updated:        2012-02-24
+Ref:            https://rdap.arin.net/registry/ip/74.125.0.0
+
+
+
+OrgName:        Google LLC
+OrgId:          GOGL
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+RegDate:        2000-03-30
+Updated:        2019-10-31
+Comment:        Please note that the recommended way to file abuse complaints are located in the following links. 
+Comment:        
+Comment:        To report abuse and illegal activity: https://www.google.com/contact/
+Comment:        
+Comment:        For legal requests: http://support.google.com/legal 
+Comment:        
+Comment:        Regards, 
+Comment:        The Google Team
+Ref:            https://rdap.arin.net/registry/entity/GOGL
+
+
+OrgAbuseHandle: ABUSE5250-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-650-253-0000 
+OrgAbuseEmail:  network-abuse@google.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE5250-ARIN
+
+OrgTechHandle: ZG39-ARIN
+OrgTechName:   Google LLC
+OrgTechPhone:  +1-650-253-0000 
+OrgTechEmail:  arin-contact@google.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZG39-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 10:35:25] [POTENTIAL_TARGET] 17.253.34.131
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       17.0.0.0 - 17.255.255.255
+CIDR:           17.0.0.0/8
+NetName:        APPLE-WWNET
+NetHandle:      NET-17-0-0-0-1
+Parent:          ()
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Apple Inc. (APPLEC-1-Z)
+RegDate:        1990-04-16
+Updated:        2025-04-02
+Comment:        Geofeed https://ip-geolocation.apple.com
+Ref:            https://rdap.arin.net/registry/ip/17.0.0.0
+
+
+
+OrgName:        Apple Inc.
+OrgId:          APPLEC-1-Z
+Address:        One Apple Park Way
+City:           Cupertino
+StateProv:      CA
+PostalCode:     95014
+Country:        US
+RegDate:        2009-12-14
+Updated:        2025-04-22
+Ref:            https://rdap.arin.net/registry/entity/APPLEC-1-Z
+
+
+OrgAbuseHandle: APPLE11-ARIN
+OrgAbuseName:   Apple Abuse
+OrgAbusePhone:  +1-408-974-7777 
+OrgAbuseEmail:  abuse@apple.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/APPLE11-ARIN
+
+OrgTechHandle: IPHOS7-ARIN
+OrgTechName:   IP Hostmaster
+OrgTechPhone:  +1-408-996-1010 
+OrgTechEmail:  ip-hostmaster@group.apple.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/IPHOS7-ARIN
+
+RTechHandle: APPLE141-ARIN
+RTechName:   Apple Inc
+RTechPhone:  +1-408-996-1010 
+RTechEmail:  ip-hostmaster@group.apple.com
+RTechRef:    https://rdap.arin.net/registry/entity/APPLE141-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 10:38:52] [POTENTIAL_TARGET] 74.125.24.136
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       74.125.0.0 - 74.125.255.255
+CIDR:           74.125.0.0/16
+NetName:        GOOGLE
+NetHandle:      NET-74-125-0-0-1
+Parent:         NET74 (NET-74-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Google LLC (GOGL)
+RegDate:        2007-03-13
+Updated:        2012-02-24
+Ref:            https://rdap.arin.net/registry/ip/74.125.0.0
+
+
+
+OrgName:        Google LLC
+OrgId:          GOGL
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+RegDate:        2000-03-30
+Updated:        2019-10-31
+Comment:        Please note that the recommended way to file abuse complaints are located in the following links. 
+Comment:        
+Comment:        To report abuse and illegal activity: https://www.google.com/contact/
+Comment:        
+Comment:        For legal requests: http://support.google.com/legal 
+Comment:        
+Comment:        Regards, 
+Comment:        The Google Team
+Ref:            https://rdap.arin.net/registry/entity/GOGL
+
+
+OrgAbuseHandle: ABUSE5250-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-650-253-0000 
+OrgAbuseEmail:  network-abuse@google.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE5250-ARIN
+
+OrgTechHandle: ZG39-ARIN
+OrgTechName:   Google LLC
+OrgTechPhone:  +1-650-253-0000 
+OrgTechEmail:  arin-contact@google.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZG39-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 10:46:28] [POTENTIAL_TARGET] 35.190.72.216
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       35.184.0.0 - 35.191.255.255
+CIDR:           35.184.0.0/13
+NetName:        GOOGLE-CLOUD
+NetHandle:      NET-35-184-0-0-1
+Parent:         NET35 (NET-35-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Google LLC (GOOGL-2)
+RegDate:        2016-10-11
+Updated:        2016-10-17
+Ref:            https://rdap.arin.net/registry/ip/35.184.0.0
+
+
+
+OrgName:        Google LLC
+OrgId:          GOOGL-2
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+RegDate:        2006-09-29
+Updated:        2019-11-01
+Comment:        *** The IP addresses under this Org-ID are in use by Google Cloud customers *** 
+Comment:        
+Comment:        Direct all copyright and legal complaints to 
+Comment:        https://support.google.com/legal/go/report
+Comment:        
+Comment:        Direct all spam and abuse complaints to 
+Comment:        https://support.google.com/code/go/gce_abuse_report
+Comment:        
+Comment:        For fastest response, use the relevant forms above.
+Comment:        
+Comment:        Complaints can also be sent to the GC Abuse desk 
+Comment:        (google-cloud-compliance@google.com) 
+Comment:        but may have longer turnaround times.
+Comment:        
+Comment:        Complaints sent to any other POC will be ignored.
+Ref:            https://rdap.arin.net/registry/entity/GOOGL-2
+
+
+OrgTechHandle: ZG39-ARIN
+OrgTechName:   Google LLC
+OrgTechPhone:  +1-650-253-0000 
+OrgTechEmail:  arin-contact@google.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZG39-ARIN
+
+OrgAbuseHandle: GCABU-ARIN
+OrgAbuseName:   GC Abuse
+OrgAbusePhone:  +1-650-253-0000 
+OrgAbuseEmail:  google-cloud-compliance@google.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/GCABU-ARIN
+
+OrgNOCHandle: GCABU-ARIN
+OrgNOCName:   GC Abuse
+OrgNOCPhone:  +1-650-253-0000 
+OrgNOCEmail:  google-cloud-compliance@google.com
+OrgNOCRef:    https://rdap.arin.net/registry/entity/GCABU-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 10:49:31] [POTENTIAL_TARGET] 172.217.194.91
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 11:22:33] [WHATSAPP_RELAY] 157.240.208.60
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       157.240.0.0 - 157.240.255.255
+CIDR:           157.240.0.0/16
+NetName:        THEFA-3
+NetHandle:      NET-157-240-0-0-1
+Parent:         NET157 (NET-157-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Facebook, Inc. (THEFA-3)
+RegDate:        2015-05-14
+Updated:        2021-12-14
+Ref:            https://rdap.arin.net/registry/ip/157.240.0.0
+
+
+
+OrgName:        Facebook, Inc.
+OrgId:          THEFA-3
+Address:        1601 Willow Rd.
+City:           Menlo Park
+StateProv:      CA
+PostalCode:     94025
+Country:        US
+RegDate:        2004-08-11
+Updated:        2024-02-14
+Ref:            https://rdap.arin.net/registry/entity/THEFA-3
+
+
+OrgAbuseHandle: OPERA82-ARIN
+OrgAbuseName:   Operations
+OrgAbusePhone:  +1-650-543-4800 
+OrgAbuseEmail:  noc@fb.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/OPERA82-ARIN
+
+OrgTechHandle: OPERA82-ARIN
+OrgTechName:   Operations
+OrgTechPhone:  +1-650-543-4800 
+OrgTechEmail:  noc@fb.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/OPERA82-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 11:23:34] [POTENTIAL_TARGET] 17.253.84.125
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       17.0.0.0 - 17.255.255.255
+CIDR:           17.0.0.0/8
+NetName:        APPLE-WWNET
+NetHandle:      NET-17-0-0-0-1
+Parent:          ()
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Apple Inc. (APPLEC-1-Z)
+RegDate:        1990-04-16
+Updated:        2025-04-02
+Comment:        Geofeed https://ip-geolocation.apple.com
+Ref:            https://rdap.arin.net/registry/ip/17.0.0.0
+
+
+
+OrgName:        Apple Inc.
+OrgId:          APPLEC-1-Z
+Address:        One Apple Park Way
+City:           Cupertino
+StateProv:      CA
+PostalCode:     95014
+Country:        US
+RegDate:        2009-12-14
+Updated:        2025-04-22
+Ref:            https://rdap.arin.net/registry/entity/APPLEC-1-Z
+
+
+OrgAbuseHandle: APPLE11-ARIN
+OrgAbuseName:   Apple Abuse
+OrgAbusePhone:  +1-408-974-7777 
+OrgAbuseEmail:  abuse@apple.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/APPLE11-ARIN
+
+OrgTechHandle: IPHOS7-ARIN
+OrgTechName:   IP Hostmaster
+OrgTechPhone:  +1-408-996-1010 
+OrgTechEmail:  ip-hostmaster@group.apple.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/IPHOS7-ARIN
+
+RTechHandle: APPLE141-ARIN
+RTechName:   Apple Inc
+RTechPhone:  +1-408-996-1010 
+RTechEmail:  ip-hostmaster@group.apple.com
+RTechRef:    https://rdap.arin.net/registry/entity/APPLE141-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 11:23:39] [POTENTIAL_TARGET] 172.64.148.235
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.64.0.0 - 172.71.255.255
+CIDR:           172.64.0.0/13
+NetName:        CLOUDFLARENET
+NetHandle:      NET-172-64-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS13335
+Organization:   Cloudflare, Inc. (CLOUD14)
+RegDate:        2015-02-25
+Updated:        2024-09-04
+Comment:        All Cloudflare abuse reporting can be done via https://www.cloudflare.com/abuse
+Comment:        Geofeed: https://api.cloudflare.com/local-ip-ranges.csv
+Ref:            https://rdap.arin.net/registry/ip/172.64.0.0
+
+
+
+OrgName:        Cloudflare, Inc.
+OrgId:          CLOUD14
+Address:        101 Townsend Street
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94107
+Country:        US
+RegDate:        2010-07-09
+Updated:        2024-11-25
+Ref:            https://rdap.arin.net/registry/entity/CLOUD14
+
+
+OrgNOCHandle: CLOUD146-ARIN
+OrgNOCName:   Cloudflare-NOC
+OrgNOCPhone:  +1-650-319-8930 
+OrgNOCEmail:  noc@cloudflare.com
+OrgNOCRef:    https://rdap.arin.net/registry/entity/CLOUD146-ARIN
+
+OrgTechHandle: ADMIN2521-ARIN
+OrgTechName:   Admin
+OrgTechPhone:  +1-650-319-8930 
+OrgTechEmail:  rir@cloudflare.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ADMIN2521-ARIN
+
+OrgAbuseHandle: ABUSE2916-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-650-319-8930 
+OrgAbuseEmail:  abuse@cloudflare.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE2916-ARIN
+
+OrgRoutingHandle: CLOUD146-ARIN
+OrgRoutingName:   Cloudflare-NOC
+OrgRoutingPhone:  +1-650-319-8930 
+OrgRoutingEmail:  noc@cloudflare.com
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/CLOUD146-ARIN
+
+RTechHandle: ADMIN2521-ARIN
+RTechName:   Admin
+RTechPhone:  +1-650-319-8930 
+RTechEmail:  rir@cloudflare.com
+RTechRef:    https://rdap.arin.net/registry/entity/ADMIN2521-ARIN
+
+RAbuseHandle: ABUSE2916-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-650-319-8930 
+RAbuseEmail:  abuse@cloudflare.com
+RAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE2916-ARIN
+
+RNOCHandle: NOC11962-ARIN
+RNOCName:   NOC
+RNOCPhone:  +1-650-319-8930 
+RNOCEmail:  noc@cloudflare.com
+RNOCRef:    https://rdap.arin.net/registry/entity/NOC11962-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 11:23:41] [POTENTIAL_TARGET] 34.107.243.93
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       34.64.0.0 - 34.127.255.255
+CIDR:           34.64.0.0/10
+NetName:        GOOGL-2
+NetHandle:      NET-34-64-0-0-1
+Parent:         NET34 (NET-34-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Google LLC (GOOGL-2)
+RegDate:        2018-09-28
+Updated:        2018-09-28
+Ref:            https://rdap.arin.net/registry/ip/34.64.0.0
+
+
+
+OrgName:        Google LLC
+OrgId:          GOOGL-2
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+RegDate:        2006-09-29
+Updated:        2019-11-01
+Comment:        *** The IP addresses under this Org-ID are in use by Google Cloud customers *** 
+Comment:        
+Comment:        Direct all copyright and legal complaints to 
+Comment:        https://support.google.com/legal/go/report
+Comment:        
+Comment:        Direct all spam and abuse complaints to 
+Comment:        https://support.google.com/code/go/gce_abuse_report
+Comment:        
+Comment:        For fastest response, use the relevant forms above.
+Comment:        
+Comment:        Complaints can also be sent to the GC Abuse desk 
+Comment:        (google-cloud-compliance@google.com) 
+Comment:        but may have longer turnaround times.
+Comment:        
+Comment:        Complaints sent to any other POC will be ignored.
+Ref:            https://rdap.arin.net/registry/entity/GOOGL-2
+
+
+OrgNOCHandle: GCABU-ARIN
+OrgNOCName:   GC Abuse
+OrgNOCPhone:  +1-650-253-0000 
+OrgNOCEmail:  google-cloud-compliance@google.com
+OrgNOCRef:    https://rdap.arin.net/registry/entity/GCABU-ARIN
+
+OrgAbuseHandle: GCABU-ARIN
+OrgAbuseName:   GC Abuse
+OrgAbusePhone:  +1-650-253-0000 
+OrgAbuseEmail:  google-cloud-compliance@google.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/GCABU-ARIN
+
+OrgTechHandle: ZG39-ARIN
+OrgTechName:   Google LLC
+OrgTechPhone:  +1-650-253-0000 
+OrgTechEmail:  arin-contact@google.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZG39-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 13:55:08] [POTENTIAL_TARGET] 172.253.118.91
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       172.253.0.0 - 172.253.255.255
+CIDR:           172.253.0.0/16
+NetName:        GOOGLE
+NetHandle:      NET-172-253-0-0-1
+Parent:         NET172 (NET-172-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS15169
+Organization:   Google LLC (GOGL)
+RegDate:        2013-04-04
+Updated:        2013-04-04
+Ref:            https://rdap.arin.net/registry/ip/172.253.0.0
+
+
+
+OrgName:        Google LLC
+OrgId:          GOGL
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+RegDate:        2000-03-30
+Updated:        2019-10-31
+Comment:        Please note that the recommended way to file abuse complaints are located in the following links. 
+Comment:        
+Comment:        To report abuse and illegal activity: https://www.google.com/contact/
+Comment:        
+Comment:        For legal requests: http://support.google.com/legal 
+Comment:        
+Comment:        Regards, 
+Comment:        The Google Team
+Ref:            https://rdap.arin.net/registry/entity/GOGL
+
+
+OrgAbuseHandle: ABUSE5250-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-650-253-0000 
+OrgAbuseEmail:  network-abuse@google.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE5250-ARIN
+
+OrgTechHandle: ZG39-ARIN
+OrgTechName:   Google LLC
+OrgTechPhone:  +1-650-253-0000 
+OrgTechEmail:  arin-contact@google.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZG39-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 13:55:09] [POTENTIAL_TARGET] 17.253.60.253
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       17.0.0.0 - 17.255.255.255
+CIDR:           17.0.0.0/8
+NetName:        APPLE-WWNET
+NetHandle:      NET-17-0-0-0-1
+Parent:          ()
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Apple Inc. (APPLEC-1-Z)
+RegDate:        1990-04-16
+Updated:        2025-04-02
+Comment:        Geofeed https://ip-geolocation.apple.com
+Ref:            https://rdap.arin.net/registry/ip/17.0.0.0
+
+
+
+OrgName:        Apple Inc.
+OrgId:          APPLEC-1-Z
+Address:        One Apple Park Way
+City:           Cupertino
+StateProv:      CA
+PostalCode:     95014
+Country:        US
+RegDate:        2009-12-14
+Updated:        2025-04-22
+Ref:            https://rdap.arin.net/registry/entity/APPLEC-1-Z
+
+
+OrgAbuseHandle: APPLE11-ARIN
+OrgAbuseName:   Apple Abuse
+OrgAbusePhone:  +1-408-974-7777 
+OrgAbuseEmail:  abuse@apple.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/APPLE11-ARIN
+
+OrgTechHandle: IPHOS7-ARIN
+OrgTechName:   IP Hostmaster
+OrgTechPhone:  +1-408-996-1010 
+OrgTechEmail:  ip-hostmaster@group.apple.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/IPHOS7-ARIN
+
+RTechHandle: APPLE141-ARIN
+RTechName:   Apple Inc
+RTechPhone:  +1-408-996-1010 
+RTechEmail:  ip-hostmaster@group.apple.com
+RTechRef:    https://rdap.arin.net/registry/entity/APPLE141-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 13:55:10] [POTENTIAL_TARGET] 151.101.131.6
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       151.101.0.0 - 151.101.255.255
+CIDR:           151.101.0.0/16
+NetName:        SKYCA-3
+NetHandle:      NET-151-101-0-0-1
+Parent:         RIPE-ERX-151 (NET-151-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Fastly, Inc. (SKYCA-3)
+RegDate:        2016-02-01
+Updated:        2021-12-14
+Ref:            https://rdap.arin.net/registry/ip/151.101.0.0
+
+
+
+OrgName:        Fastly, Inc.
+OrgId:          SKYCA-3
+Address:        PO Box 78266
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94107
+Country:        US
+RegDate:        2011-09-16
+Updated:        2025-03-25
+Ref:            https://rdap.arin.net/registry/entity/SKYCA-3
+
+
+OrgTechHandle: FRA19-ARIN
+OrgTechName:   Fastly RIR Administrator
+OrgTechPhone:  +1-415-404-9374 
+OrgTechEmail:  rir-admin@fastly.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/FRA19-ARIN
+
+OrgNOCHandle: FNO19-ARIN
+OrgNOCName:   Fastly Network Operations
+OrgNOCPhone:  +1-415-404-9374 
+OrgNOCEmail:  noc@fastly.com
+OrgNOCRef:    https://rdap.arin.net/registry/entity/FNO19-ARIN
+
+OrgAbuseHandle: ABUSE4771-ARIN
+OrgAbuseName:   Abuse Account
+OrgAbusePhone:  +1-415-496-9353 
+OrgAbuseEmail:  abuse@fastly.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE4771-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 13:55:10] [POTENTIAL_TARGET] 151.101.195.6
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       151.101.0.0 - 151.101.255.255
+CIDR:           151.101.0.0/16
+NetName:        SKYCA-3
+NetHandle:      NET-151-101-0-0-1
+Parent:         RIPE-ERX-151 (NET-151-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Fastly, Inc. (SKYCA-3)
+RegDate:        2016-02-01
+Updated:        2021-12-14
+Ref:            https://rdap.arin.net/registry/ip/151.101.0.0
+
+
+
+OrgName:        Fastly, Inc.
+OrgId:          SKYCA-3
+Address:        PO Box 78266
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94107
+Country:        US
+RegDate:        2011-09-16
+Updated:        2025-03-25
+Ref:            https://rdap.arin.net/registry/entity/SKYCA-3
+
+
+OrgTechHandle: FRA19-ARIN
+OrgTechName:   Fastly RIR Administrator
+OrgTechPhone:  +1-415-404-9374 
+OrgTechEmail:  rir-admin@fastly.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/FRA19-ARIN
+
+OrgNOCHandle: FNO19-ARIN
+OrgNOCName:   Fastly Network Operations
+OrgNOCPhone:  +1-415-404-9374 
+OrgNOCEmail:  noc@fastly.com
+OrgNOCRef:    https://rdap.arin.net/registry/entity/FNO19-ARIN
+
+OrgAbuseHandle: ABUSE4771-ARIN
+OrgAbuseName:   Abuse Account
+OrgAbusePhone:  +1-415-496-9353 
+OrgAbuseEmail:  abuse@fastly.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE4771-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 22:14:40] [POTENTIAL_TARGET] 172.15.3.219
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 22:15:00] [POTENTIAL_TARGET] 172.15.3.152
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 22:18:08] [POTENTIAL_TARGET] 172.15.3.237
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 22:19:44] [POTENTIAL_TARGET] 172.15.1.41
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 22:20:01] [POTENTIAL_TARGET] 172.15.3.114
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 22:20:21] [POTENTIAL_TARGET] 172.15.2.200
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 22:22:57] [NON_PUBLIC] 192.168.15.1
+[WHOIS ERROR]
+N/A
+============================================================
+[2025-07-23 22:23:00] [POTENTIAL_TARGET] 162.159.61.3
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 22:23:05] [POTENTIAL_TARGET] 8.8.4.4
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 22:23:05] [POTENTIAL_TARGET] 146.75.47.6
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
+[2025-07-23 22:23:05] [NON_PUBLIC] 192.168.15.255
+[WHOIS ERROR]
+N/A
+============================================================
+[2025-07-23 22:23:36] [NON_PUBLIC] 192.168.15.40
+[WHOIS ERROR]
+N/A
+============================================================
+[2025-07-23 22:24:13] [POTENTIAL_TARGET] 8.8.8.8
+[WHOIS ERROR]
+[GeoIP Error] ipgeolocation.py not found
+============================================================
