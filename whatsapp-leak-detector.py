@@ -376,6 +376,150 @@ GEOIP:
             print(f"[*] Total packets processed: {self.packet_count}")
             print(f"[*] Total unique IPs detected: {len(self.checked_ips)}")
     
+    def start_comprehensive_capture(self):
+        """Comprehensive capture - monitor all relevant traffic"""
+        cmd = [
+            'tshark',
+            '-i', self.interface,
+            '-T', 'fields',
+            '-e', 'frame.time',
+            '-e', 'ip.src',
+            '-e', 'ip.dst',
+            '-e', 'tcp.srcport',
+            '-e', 'tcp.dstport',
+            '-e', 'udp.srcport',
+            '-e', 'udp.dstport',
+            '-e', 'stun.message_type',
+            '-e', 'stun.message_type_name',
+            '-f', 'ip',  # Capture all IP traffic
+            '-l'
+        ]
+        
+        print(f"[*] Starting COMPREHENSIVE capture on {self.interface}")
+        print(f"[*] Monitoring ALL IP traffic (TCP/UDP/STUN)...")
+        print(f"[*] This will capture everything - WhatsApp, web traffic, etc.")
+        print(f"[*] Press Ctrl+C to stop")
+        print(f"[*] Results will be logged to: {self.output_file}")
+        print("-" * 50)
+        
+        self.running = True
+        start_time = time.time()
+        
+        try:
+            process = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+            
+            for line in process.stdout:
+                if not self.running:
+                    break
+                
+                parts = line.strip().split('\t')
+                if len(parts) >= 9:
+                    timestamp, src_ip, dst_ip, tcp_sport, tcp_dport, udp_sport, udp_dport, stun_type, stun_name = parts
+                    
+                    # Process source IP
+                    if src_ip and src_ip != 'ip.src':
+                        self.process_ip(src_ip)
+                    
+                    # Process destination IP
+                    if dst_ip and dst_ip != 'ip.dst':
+                        self.process_ip(dst_ip)
+                    
+                    # Show traffic info
+                    protocol = "TCP" if tcp_sport else "UDP" if udp_sport else "OTHER"
+                    sport = tcp_sport if tcp_sport else udp_sport if udp_sport else "?"
+                    dport = tcp_dport if tcp_dport else udp_dport if udp_dport else "?"
+                    
+                    if stun_type:
+                        print(f"[STUN] {stun_name} ({stun_type}) - {src_ip}:{sport} -> {dst_ip}:{dport}")
+                    else:
+                        print(f"[{protocol}] {src_ip}:{sport} -> {dst_ip}:{dport}")
+                    
+        except KeyboardInterrupt:
+            print("\n[!] Stopping capture...")
+        except Exception as e:
+            print(f"[ERROR] Capture failed: {e}")
+        finally:
+            self.stop()
+            if 'process' in locals():
+                process.terminate()
+            
+            duration = time.time() - start_time
+            print(f"\n[*] Capture duration: {duration:.1f} seconds")
+            print(f"[*] Total packets processed: {self.packet_count}")
+            print(f"[*] Total unique IPs detected: {len(self.checked_ips)}")
+    
+    def start_whatsapp_capture(self):
+        """Capture specifically for WhatsApp traffic patterns"""
+        cmd = [
+            'tshark',
+            '-i', self.interface,
+            '-T', 'fields',
+            '-e', 'frame.time',
+            '-e', 'ip.src',
+            '-e', 'ip.dst',
+            '-e', 'tcp.srcport',
+            '-e', 'tcp.dstport',
+            '-e', 'udp.srcport',
+            '-e', 'udp.dstport',
+            '-e', 'stun.message_type',
+            '-e', 'stun.message_type_name',
+            '-f', 'ip',
+            '-Y', 'tcp or udp',  # Only TCP and UDP
+            '-l'
+        ]
+        
+        print(f"[*] Starting WhatsApp-focused capture on {self.interface}")
+        print(f"[*] Monitoring TCP/UDP traffic for WhatsApp patterns...")
+        print(f"[*] Press Ctrl+C to stop")
+        print(f"[*] Results will be logged to: {self.output_file}")
+        print("-" * 50)
+        
+        self.running = True
+        start_time = time.time()
+        
+        try:
+            process = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+            
+            for line in process.stdout:
+                if not self.running:
+                    break
+                
+                parts = line.strip().split('\t')
+                if len(parts) >= 9:
+                    timestamp, src_ip, dst_ip, tcp_sport, tcp_dport, udp_sport, udp_dport, stun_type, stun_name = parts
+                    
+                    # Process source IP
+                    if src_ip and src_ip != 'ip.src':
+                        self.process_ip(src_ip)
+                    
+                    # Process destination IP
+                    if dst_ip and dst_ip != 'ip.dst':
+                        self.process_ip(dst_ip)
+                    
+                    # Show traffic info
+                    protocol = "TCP" if tcp_sport else "UDP" if udp_sport else "OTHER"
+                    sport = tcp_sport if tcp_sport else udp_sport if udp_sport else "?"
+                    dport = tcp_dport if tcp_dport else udp_dport if udp_dport else "?"
+                    
+                    if stun_type:
+                        print(f"[STUN] {stun_name} ({stun_type}) - {src_ip}:{sport} -> {dst_ip}:{dport}")
+                    else:
+                        print(f"[{protocol}] {src_ip}:{sport} -> {dst_ip}:{dport}")
+                    
+        except KeyboardInterrupt:
+            print("\n[!] Stopping capture...")
+        except Exception as e:
+            print(f"[ERROR] Capture failed: {e}")
+        finally:
+            self.stop()
+            if 'process' in locals():
+                process.terminate()
+            
+            duration = time.time() - start_time
+            print(f"\n[*] Capture duration: {duration:.1f} seconds")
+            print(f"[*] Total packets processed: {self.packet_count}")
+            print(f"[*] Total unique IPs detected: {len(self.checked_ips)}")
+    
     def stop(self):
         """Stop the capture process"""
         self.running = False
@@ -395,6 +539,8 @@ def main():
     parser = argparse.ArgumentParser(description='WhatsApp IP Leak Detection Tool')
     parser.add_argument('-i', '--interface', help='Network interface (auto-detect if not specified)')
     parser.add_argument('-s', '--simple', action='store_true', help='Use simple UDP capture')
+    parser.add_argument('-c', '--comprehensive', action='store_true', help='Monitor ALL traffic (TCP/UDP/STUN)')
+    parser.add_argument('-w', '--whatsapp', action='store_true', help='Monitor WhatsApp-focused traffic patterns')
     parser.add_argument('-o', '--output', default='leak_results.log', help='Output log file')
     parser.add_argument('-l', '--list', action='store_true', help='List available interfaces')
     
@@ -453,9 +599,17 @@ def main():
         print("[WARNING] GeoIP tool not found. WHOIS only will be available.")
     
     try:
-        if args.simple:
+        if args.comprehensive:
+            print("[INFO] Starting COMPREHENSIVE monitoring - will capture ALL traffic")
+            detector.start_comprehensive_capture()
+        elif args.whatsapp:
+            print("[INFO] Starting WhatsApp-focused monitoring")
+            detector.start_whatsapp_capture()
+        elif args.simple:
+            print("[INFO] Starting simple UDP monitoring")
             detector.start_simple_capture()
         else:
+            print("[INFO] Starting STUN-specific monitoring")
             detector.start_stun_capture()
     except KeyboardInterrupt:
         print("\n[!] Stopping...")
